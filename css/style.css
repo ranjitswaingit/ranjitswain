@@ -432,7 +432,7 @@ h3.heading:after {
     line-height: 28px;
     letter-spacing: .5px;
     font-size: 15px;
-    color: #666;
+    color: white;
     border-left: 3px solid #333;
     padding-left: 3em;
 }
@@ -445,7 +445,7 @@ h3.heading:after {
     line-height: 28px;
     letter-spacing: .5px;
     font-size: 15px;
-    color: #666;
+    color: white;
     border-right: 3px solid #333;
     padding-right: 3em;
     text-align: right;
